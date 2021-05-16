@@ -1,1 +1,3 @@
 # WordSearchGrid
+
+wordsearch is a program that takes in a text file with a grid of letters in it and another file that contains a list of words and determines whether the words in the list can be found in the word search grid. The program prints out the grid of letters, the words in the list, the words found in the word search grid, and also the word search grid with the letters of the found words in lower case. 
